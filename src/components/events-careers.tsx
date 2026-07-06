@@ -46,7 +46,7 @@ const events = [
     day: "07",
     mon: "DEC",
     title: "GITEX Global 2026 — Oracle & AI in Enterprise",
-    type: "Alt-S Attending",
+    type: "Sifratech Attending",
     loc: "Expo City Dubai, UAE",
     href: "https://www.gitex.com",
   },
@@ -54,7 +54,7 @@ const events = [
     day: "20",
     mon: "OCT",
     title: "Oracle SCM & Supply Chain GCC Roundtable",
-    type: "Alt-S Speaking",
+    type: "Sifratech Speaking",
     loc: "Doha, Qatar",
     href: "https://www.oracle.com/events/",
   },
@@ -188,7 +188,7 @@ export function EventsCareers() {
               <span className="w-8 h-[1px] bg-slate-400"></span> Careers
             </div>
             <h2 className="text-4xl font-sans font-bold text-slate-900 tracking-tighter mb-4">
-              Careers at Alt-S Group
+              Careers at Sifratech
             </h2>
             <p className="text-sm text-slate-600 mb-12 leading-relaxed">
               Oracle professionals who want real GCC project exposure, strong module depth, and the ability to make a genuine impact on enterprise implementations.
